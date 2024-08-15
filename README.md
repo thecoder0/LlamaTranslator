@@ -2,7 +2,7 @@
 
 #### This is a system designed to translate Java Language Specification (JLS) sentences into Prolog code using the Llama3 as our language model and sentence-transformers/all-MiniLM-L6-v2 for generating embeddings. 
 #### The process flow is as follows:
-![Diagram](https://github.com/user-attachments/assets/a2cb0685-1b83-4666-bde9-084e77e24057)
+![Diagram](https://github.com/user-attachments/assets/1ea138b7-18b2-40ed-86b1-b48fb8d2ba5b)
 
 #### 1.) Receive the JLS sentence as our query
 #### 2.) Generate query embedding using the embedding model
